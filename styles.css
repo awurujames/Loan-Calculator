@@ -1,0 +1,28 @@
+body {
+  background: bisque;
+  background-image: ;
+  height: 100%;
+  width: 100%;
+}
+
+.container-first {
+  height: 100%;
+  width: 100%;
+  background-color: lightblue;
+}
+
+.row-first {
+  background-color: burlywood;
+}
+
+h1 {
+  color: red;
+  background-color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.sec-btn {
+  width: 12%;
+  height: 25%;
+  color: red;
+}
